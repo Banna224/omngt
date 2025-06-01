@@ -1,1 +1,1 @@
-# omngt
+# Project Helper CLI
